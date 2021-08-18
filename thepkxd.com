@@ -4,14 +4,14 @@
   "show": true, 
   "CheckR": true, 
   "com": false,
-  "published":false,
+  "published":true,
   
   
   "version": 1,
   "newAppLink": "",
   
-  "video": "https://cimoandroid.com/vids/pk_xd.mp4",
-  "privacy": "https://drive.google.com/uc?id=1u4AJ_wfkBDl-zqhK2dYAdXysKPOAbcuV",
+  "video": "https://drive.google.com/uc?id=1u4AJ_wfkBDl-zqhK2dYAdXysKPOAbcuV",
+  "privacy": "https://firasnimo.blogspot.com/p/privacy.html",
   
   "spancount": 1,
   "guide": [
@@ -50,13 +50,13 @@
     "fan_native": "VID_HD_9_16_39S_APP_INSTALL#147772497126061_147774260459218",
     "fan_native_banner": "IMG_16_9_APP_INSTALL#147772497126061_177597947476849"
   },
-  "admob": false,
+  "admob": true,
   "adsadmb": {
-    "admb_banner": "ca-app-pub-7144089957930196/6459192176",
-    "admb_openad": "ca-app-pub-7144089957930196/1768852718",
-    "admb_inters": "ca-app-pub-7144089957930196/8525832754",
-    "admb_rewarded_inters": "ca-app-pub-7144089957930196/2088895843",
-    "admb_native": "ca-app-pub-7144089957930196/8462732507"
+    "admb_banner": "ca-app-pub-9983687431904696/8727711990",
+    "admb_openad": "ca-app-pub-9983687431904696/8344568615",
+    "admb_inters": "ca-app-pub-9983687431904696/3475385310",
+    "admb_rewarded_inters": "ca-app-pub-9983687431904696/9849221977",
+    "admb_native": "ca-app-pub-9983687431904696/8377725184"
   },
   "unity": false,
   "adsunity": {
