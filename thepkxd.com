@@ -1,5 +1,4 @@
-{
-    "msg4you":"if you find this file contact me at @c1m0h4m3dd0tj4r and lets work ",
+{ 
     
   "show": true, 
   "CheckR": true, 
