@@ -54,7 +54,7 @@
     "admb_banner": "ca-app-pub-1243508013209112/2679083124",
     "admb_openad": "ca-app-pub-1243508013209112/6618328134",
     "admb_inters": "ca-app-pub-1243508013209112/6426756440",
-    "admb_rewarded_inters": "ca-app-pub-1243508013209112/5324429314",
+    "admb_rewarded_inters": "ca-app-pub-1243508013209112/5916581326",
     "admb_native": "ca-app-pub-1243508013209112/1174429764"
   },
   "unity": false,
