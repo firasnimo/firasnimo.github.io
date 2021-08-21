@@ -9,8 +9,7 @@
   "version": 1,
   "newAppLink": "",
   
-  "video": "https://d2p3msrk5r5cwe.cloudfront.net/out/v1/9255c9b11a72457f81deecfe9dfe30e4/index_4.m3u8",
-  "videos": "https://drive.google.com/uc?id=1u4AJ_wfkBDl-zqhK2dYAdXysKPOAbcuV",
+  "video": "https://drive.google.com/uc?id=1u4AJ_wfkBDl-zqhK2dYAdXysKPOAbcuV",
   "privacy": "https://firasnimo.blogspot.com/p/privacy.html",
   
   "spancount": 1,
