@@ -41,9 +41,9 @@
             ]
   ],
   
-  "NativeCount":2,
+  "NativeCount":3,
   "fan": true,
-  "snf":"mix",
+  "snf":"nb",
   "adsfan": {
     "fan_inters": "3080599238932491_3080599318932483",
     "fan_native": "3080599238932491_3080599312265817",
