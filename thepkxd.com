@@ -9,7 +9,8 @@
   "version": 1,
   "newAppLink": "",
   
-  "video": "https://drive.google.com/uc?id=1u4AJ_wfkBDl-zqhK2dYAdXysKPOAbcuV",
+  "videos": "https://drive.google.com/uc?id=1u4AJ_wfkBDl-zqhK2dYAdXysKPOAbcuV",
+  "video": "https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CpUEiAOZ2-UniLTeNx45aT2tBqtA-T4gnp-QMIP7o59TCmKRhdtmkiKliaxOCmXvabVvdKMd4XwBSiLol6QxFDKVc2Y9Qg4c9SqM8dYZG7mnbL-DVwpPYDOSSodXkWOB-_7pucB_EOFiMODjZm8SUwnK_UyONu9Ea0hXwz4paJot9tNXbN0hKKTSgJtO4wR53dOc_4V6V5bWDouBe5eMWIfbwOoMc8ZU8gIgkW3PysQ6xFlLv0tbzmTdAMjzYhI_E1-1gWL-h46EK6XggrTKbU-OUl7VlLlxxib2WIZTpX4DZF6oM1v_rkBJSlavaFH5krMkq31OUs5uo3prq9_O36o4JXZdUSP_dVHaClmTJZ0Lz0uRjZ5lmCDBMxapjGnNFO1jGyNWfmIG3QWB8gZmnRi1nxhrNTsbQKyWOuiFr_hwpa5Yt1INhPnL8wbuyKqYljPRqSeX4d0DblD-nRwYz_o9d8ueJoU-DyQs5AlqnU4QVY79QcelVA4XjO3GBCC9608OHyJRsqw6O_MS34eiOgmGPkxjMofCe-_ILbw74j37B4PUBmxTe0UZfDZTI-5E5gxAI6E79i3MPSLEObXzS6AhJpQLBsi-PtqKT10mtx0MIrjeYstu57uA-e9eB3rxiNOAOKaj3AqZ2kFui0B60qLU_o2mkh6X6fFz77uD2j6lNh4WyALe_rhWnZfaMxXa0E2SfH4-_TcSEBDAm4DMSmZOE05F1HW0ThAaDGOsfdqGknodw5wHuw.m3u8",
   "privacy": "https://firasnimo.blogspot.com/p/privacy.html",
   
   "spancount": 1,
