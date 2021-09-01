@@ -60,6 +60,6 @@
   "unity": true,
   "adsunity": {
     "unity_id": "3978659",
-    "unity_inters": "video"
+    "unity_inters": "Android_Interstitial"
   }
 } 
