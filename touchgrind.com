@@ -8,8 +8,8 @@
       
       "version": 1,
       "newAppLink": "",
-      
-      "video": "https://drive.google.com/uc?id=16v9O81rSv4NzedIWd_pKLbc0Uqq81BSg",
+      "video": "https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
+      "videos": "https://drive.google.com/uc?id=16v9O81rSv4NzedIWd_pKLbc0Uqq81BSg",
       "privacy": "https://firasnimo.blogspot.com/p/privacy.html",
       
       "spancount": 1,
