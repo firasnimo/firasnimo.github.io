@@ -8,8 +8,8 @@
       
       "version": 1,
       "newAppLink": "",
-      "video": "https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
-      "videos": "https://drive.google.com/uc?id=16v9O81rSv4NzedIWd_pKLbc0Uqq81BSg",
+      "videos": "https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8",
+      "video": "https://drive.google.com/uc?id=16v9O81rSv4NzedIWd_pKLbc0Uqq81BSg",
       "privacy": "https://firasnimo.blogspot.com/p/privacy.html",
       
       "spancount": 1,
@@ -51,14 +51,14 @@
         "fan_native": "VID_HD_9_16_39S_APP_INSTALL#147772497126061_147774260459218",
         "fan_native_banner": "IMG_16_9_APP_INSTALL#147772497126061_177597947476849"
       },
-      "admob": false,
+      "admob": true,
       "adsadmb": {
-        "admb_banner": "ca-app-pub-2467024233846885/8568112047",
-        "admb_openad": "ca-app-pub-2467024233846885/6656264571",
-        "admb_inters": "ca-app-pub-2467024233846885/5941948701",
-        "admb_native": "ca-app-pub-2467024233846885/7255030377"
+        "admb_banner": "ca-app-pub-7144089957930196/3555242919",
+        "admb_openad": "ca-app-pub-7144089957930196/5830531397",
+        "admb_inters": "ca-app-pub-7144089957930196/9310966628",
+        "admb_native": "ca-app-pub-7144089957930196/1411940083"
       },
-      "unity": true,
+      "unity": false,
       "adsunity": {
         "unity_id": "3978659",
         "unity_inters": "video"
