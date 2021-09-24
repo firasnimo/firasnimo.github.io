@@ -3,7 +3,7 @@
   "newAppLink": "",
   "version": 1,
   "show": true,
-  "com": false,
+  "com": true,
   "CheckR": true,
   "STORENAME": " ",
   "spancount": 1,
@@ -27,9 +27,9 @@
   },
   "shownativerecycler": false,
   "shownative": true,
-  "unity": false,
+  "unity": true,
   "adsunity": {
-    "unity_id": "3667089w",
+    "unity_id": "3667089",
     "unity_inters": "video"
   },
   "colors_tv": [
